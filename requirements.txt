@@ -6,5 +6,5 @@ pandas
 Matplotlib
 PyArrow
 ipykernel
-black
+black[jupyter]
 scikit-learn
